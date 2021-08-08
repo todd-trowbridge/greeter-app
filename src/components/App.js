@@ -1,6 +1,6 @@
-import "./App.css";
-import Greeter from "../components/Greeter";
-import Count from "../components/Count";
+import "../css/App.css";
+import Greeter from "./Greeter";
+import Count from "./Count";
 
 function App() {
   // create a list of users
